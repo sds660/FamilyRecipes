@@ -1,0 +1,14 @@
+.carousel.slide {
+    max-height: 500px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.carouselWrapper {
+    background-color: #000000CC;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black;
+}
